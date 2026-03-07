@@ -1,5 +1,13 @@
 # 💫 About Me:
-💻 Full-Stack Software Engineer specializing in Java, Spring Boot, REST APIs, and React.js, with strong knowledge of DSA and scalable backend systems. I enjoy building efficient systems and solving real-world problems using clean architecture and optimized APIs.<br><br>🔭 I’m currently working on<br>A Student Performance & Activity Tracking System using Spring Boot, React.js, MySQL, and Redis caching, designed to manage 500+ records and improve API response time by 65%. <br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Backend Development, Scalable APIs, and Full-Stack Applications.<br><br>🤝 I’m looking for help with<br>Microservices architecture, distributed systems, and advanced backend performance optimization.<br><br>🌱 I’m currently learning<br>System Design, Advanced Spring Boot, and scalable backend architecture.<br><br>💬 Ask me about<br>Java • Spring Boot • REST APIs • React.js • MySQL • Data Structures & Algorithms.<br><br>⚡ Fun fact<br>I built an AI-powered weed detection system using CNN and OpenCV that achieved 95.5% accuracy and reduced pesticide usage by 35%.
+💻 Full-Stack Software Engineer skilled in Java, Spring Boot, REST APIs, React.js, and MySQL with strong knowledge of DSA and scalable backend systems.
+
+🔭 Currently building Student Performance & Activity Tracking System using Spring Boot, React.js, MySQL, and Redis, handling 500+ records with 65% faster API response.
+
+🌱 Learning System Design, Microservices, and Advanced Spring Boot.
+
+💬 Ask me about Java • Spring Boot • REST APIs • React.js • MySQL • DSA
+
+⚡ Built an AI-powered weed detection system (CNN + OpenCV) achieving 95.5% accuracy and reducing pesticide use by 35%.
 
 
 ## 🌐 Socials:
