@@ -1,97 +1,64 @@
-# 👋 Hi, I'm Sanskar Gandhewar
+# 👋 Welcome to Sanskar Gandhewar's GitHub
 
-💻 Java Full Stack Developer | DSA Enthusiast
-🚀 Passionate about building scalable applications
-🎯 Goal: Crack top product-based companies
+## 💻 Engineer
+
+🎓 ENTC Graduate | 🚀 Java Full Stack Developer | 🧠 DSA Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 ENTC Graduate (2025) | CDAC Pune (PG-DAC)
-* 💡 Strong interest in Java, Spring Boot, and System Design
+* 🚀 Solving LeetCode problems daily (200+ solved)
+* 💡 Turning ideas into scalable web applications
+* ⚡ Passionate about backend & system design
 * 📍 Pune, India
-* 🔗 [LeetCode](https://leetcode.com/u/SanskarGandhewar/)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/sanskar-gandhewar/)
 
 ---
 
-## 🚀 Currently
+## 🛠 Technology Stack
 
-* 🔥 Solving LeetCode problems daily (200+ solved)
-* ⚡ Building full-stack apps using Spring Boot + React
-* 🎯 Preparing for product-based companies
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![C#](https://img.shields.io/badge/CSharp-purple)
-
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-orange)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey)
-![JWT](https://img.shields.io/badge/JWT-black)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-blue)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-black)
-![Postman](https://img.shields.io/badge/Postman-orange)
-![Linux](https://img.shields.io/badge/Linux-grey)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,hibernate,react,html,css,mysql,postgres,git,github,linux,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SanskarGandhewar\&show_icons=true\&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=SanskarGandhewar\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanskarGandhewar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=SanskarGandhewar&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanskarGandhewar\&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarGandhewar&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 📊 Student Performance & Activity Tracking System
+🔹 **Student Performance & Activity Tracking System**
 
-* Built secure role-based system handling 500+ records
+* Role-based system handling 500+ records
 * Improved API performance by 65%
-* Developed 10+ dashboards
+* Built 10+ dashboards
 
-### 🏦 Banking Application
+🔹 **Banking Application**
 
-* Built banking system with JDBC & SQL
-* Handled 100+ users
-* Improved DB performance by 30%
+* Java + JDBC based system
+* Managed 100+ users
+* Optimized SQL queries
 
 ---
 
 ## 🏆 Achievements
 
-* 🧠 Solved 200+ DSA problems on LeetCode
+* 🧠 Solved 200+ DSA problems
 * 🥇 Top 5% in academics
 * 💻 Participated in 5+ hackathons
 
@@ -99,4 +66,4 @@
 
 ## 🎯 Goal
 
-Crack top product-based companies 🚀
+🚀 Crack top product-based companies
