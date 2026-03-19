@@ -37,11 +37,6 @@
   <img src="https://streak-stats.demolab.com/?user=SanskarGandhewar&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarGandhewar&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-
 ---
 
 ## 📈 Contribution Graph
