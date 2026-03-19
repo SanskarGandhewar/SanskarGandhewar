@@ -1,34 +1,61 @@
 # 👋 Hi, I'm Sanskar Gandhewar
 
 💻 Java Full Stack Developer | DSA Enthusiast
-🎯 Passionate about building scalable applications & solving real-world problems
+🚀 Passionate about building scalable applications
+🎯 Goal: Crack top product-based companies
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Graduate (2025) | CDAC Pune (PG-DAC)
-* 💡 Strong interest in **Java, Spring Boot, and System Design**
-* 🚀 Actively solving DSA problems & improving problem-solving skills
+* 🎓 ENTC Graduate (2025) | CDAC Pune (PG-DAC)
+* 💡 Strong interest in Java, Spring Boot, and System Design
 * 📍 Pune, India
+* 🔗 [LeetCode](https://leetcode.com/u/SanskarGandhewar/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/sanskar-gandhewar/)
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently
 
-* 🔥 Solving **LeetCode problems daily (200+ solved)**
-* ⚡ Building full-stack applications using **Spring Boot + React**
-* 🎯 Preparing for **product-based companies**
+* 🔥 Solving LeetCode problems daily (200+ solved)
+* ⚡ Building full-stack apps using Spring Boot + React
+* 🎯 Preparing for product-based companies
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, C++, JavaScript, C#
-**Backend:** Spring Boot, Hibernate, REST APIs, JWT
-**Frontend:** React.js, HTML5, CSS3
-**Database:** MySQL, PostgreSQL
-**Tools:** Git, Postman, Linux
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C#](https://img.shields.io/badge/CSharp-purple)
+
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-orange)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey)
+![JWT](https://img.shields.io/badge/JWT-black)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+
+### 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Linux](https://img.shields.io/badge/Linux-grey)
 
 ---
 
@@ -50,23 +77,23 @@
 
 ### 📊 Student Performance & Activity Tracking System
 
-* Built secure role-based system handling **500+ records**
-* Improved API performance by **65%**
-* Developed **10+ dashboards** automating reporting
+* Built secure role-based system handling 500+ records
+* Improved API performance by 65%
+* Developed 10+ dashboards
 
 ### 🏦 Banking Application
 
-* Developed full banking system with **JDBC & SQL**
-* Handled **100+ users**
-* Improved DB performance by **30%**
+* Built banking system with JDBC & SQL
+* Handled 100+ users
+* Improved DB performance by 30%
 
 ---
 
 ## 🏆 Achievements
 
-* 🧠 Solved **200+ DSA problems on LeetCode**
+* 🧠 Solved 200+ DSA problems on LeetCode
 * 🥇 Top 5% in academics
-* 💻 Participated in **5+ hackathons**
+* 💻 Participated in 5+ hackathons
 
 ---
 
