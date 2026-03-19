@@ -1,12 +1,16 @@
 👋 Welcome to Sanskar Gandhewar's GitHub Profile 👋
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who is Sanskar?
 
-* 🚀 Solving LeetCode problems daily (200+ solved)
-* 💡 Turning ideas into scalable web applications
-* ⚡ Passionate about backend & system design
-* 📍 Pune, India
+```text
+🚀 Solved 200+ DSA problems and continuously improving problem-solving skills
+💡 Building scalable applications using Java, Spring Boot & React
+⚡ Experienced in REST APIs, Hibernate, and database optimization
+💻 Developed full-stack projects handling 500+ records and dashboards
+🎯 Focused on cracking product-based companies
+```
+
 
 ---
 ## 🛠 Technology Stack
