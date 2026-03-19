@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sanskar+Gandhewar;Software+Developer;Java+Backend+Developer;DSA+Enthusiast;Spring+Boot+Developer" />
 </p>
 
-## 🧑‍💻 Who is Sanskar?
-
 ```text
 🚀 Solved 200+ DSA problems and continuously improving problem-solving skills
 💡 Building scalable applications using Java, Spring Boot & React
