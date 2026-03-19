@@ -1,5 +1,12 @@
 👋 Welcome to Sanskar Gandhewar's GitHub Profile 👋
 ---
+<h1 align="center">Hi 👋, I'm Sanskar Gandhewar</h1>
+
+<h3 align="center">💻 Software Developer | ☕ Java Backend Developer | 🚀 Problem Solver</h3>
+
+<p align="center">
+  Passionate about building scalable applications using Java & Spring Boot
+</p>
 
 ## 🧑‍💻 Who is Sanskar?
 
