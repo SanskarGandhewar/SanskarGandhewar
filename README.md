@@ -14,12 +14,19 @@
 * 📍 Pune, India
 
 ---
-
 ## 🛠 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,hibernate,react,html,css,mysql,postgres,git,github,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,cs,spring,react,html,css,mysql,postgres,git,linux" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hibernate-orange"/>
+  <img src="https://img.shields.io/badge/REST-API-lightgrey"/>
+  <img src="https://img.shields.io/badge/JWT-black"/>
+  <img src="https://img.shields.io/badge/Postman-orange"/>
+</p>
+
 
 ---
 
