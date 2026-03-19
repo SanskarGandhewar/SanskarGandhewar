@@ -1,4 +1,4 @@
-##👋 Welcome to Sanskar Gandhewar's GitHub Profile 👋
+👋 Welcome to Sanskar Gandhewar's GitHub Profile 👋
 ---
 
 ## 🚀 About Me
