@@ -2,7 +2,7 @@
 
 ## 💻 Engineer
 
-🎓 ENTC Graduate | 🚀 Java Full Stack Developer | 🧠 DSA Enthusiast
+🎓 Graduate | 🚀 Java Full Stack Developer | 🧠 DSA Enthusiast
 
 ---
 
