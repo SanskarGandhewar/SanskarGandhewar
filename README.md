@@ -1,9 +1,4 @@
-# 👋 Welcome to Sanskar Gandhewar's GitHub
-
-## 💻 Engineer
-
-🎓 Graduate | 🚀 Java Full Stack Developer | 🧠 DSA Enthusiast
-
+##👋 Welcome to Sanskar Gandhewar's GitHub Profile 👋
 ---
 
 ## 🚀 About Me
