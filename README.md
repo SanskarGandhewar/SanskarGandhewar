@@ -65,7 +65,7 @@
 
 ## 🏆 Achievements
 
-* 🧠 Solved 200+ DSA problems
+* 🧠 Solved 300+ DSA problems
 * 🥇 Top 5% in academics
 * 💻 Participated in 5+ hackathons
 
