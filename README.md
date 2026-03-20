@@ -5,7 +5,7 @@
 </p>
 
 ```text
-🚀 Solved 200+ DSA problems and continuously improving problem-solving skills
+🚀 Solved 300+ DSA problems and continuously improving problem-solving skills
 💡 Building scalable applications using Java, Spring Boot & React
 ⚡ Experienced in REST APIs, Hibernate, and database optimization
 💻 Developed full-stack projects handling 500+ records and dashboards
